@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='cpp-runner',
-    version='0.0.8',
+    version='0.0.13',
     license="MIT",
     entry_points={
         'console_scripts': ['crun=crun.crun:cli'],
